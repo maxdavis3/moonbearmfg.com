@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moonbearmfg.com/sitemap.xml
